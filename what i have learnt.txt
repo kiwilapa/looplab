@@ -1,0 +1,6 @@
+background-attachment property-	whether a background image scrolls with the rest of the page, or is fixed.
+
+background-size- it has three values auto, cover, contain
+		- auto will make appear the original size of the image
+		- cover will fit the image on the page and it wont affect the size of the image when screen size is reduced
+		- contain will also fit the image but it will affect the size of the image when the screen size is reduced
