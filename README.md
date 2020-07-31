@@ -1,6 +1,6 @@
 # looplab
 
-Its Theme made by using HTML, CSS, Bootstrap and jquery.
+Its a Theme made by using HTML, CSS, Bootstrap and jquery.
 
 To open project: download this project into your system and then go to the project directory and click on 'index.html' file.
 
